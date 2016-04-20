@@ -6,10 +6,10 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
-	u "os/user"
+	u"os/user"
 
-	"github.com/GoBootcamp/clirescue/cmdutil"
-	"github.com/GoBootcamp/clirescue/user"
+	"github.com/danghuuken/clirescue/cmdutil"
+	"github.com/danghuuken/clirescue/user"
 )
 
 var (
